@@ -1,7 +1,8 @@
 # Documentation SubsEdit
 
-## Langkah Instalasi dan Konfigurasi 
+### Langkah Instalasi dan Konfigurasi 
 
+1. Download bundle aplikasi disini 
 1. Install SubsEdit-Setup.exe
 2. Buka dan lakukan configurasi sederhana
 3. Pilih tab Option->Settings->Wapeform/spectogram
