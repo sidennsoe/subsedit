@@ -9,6 +9,8 @@
 4. Pilih Tools lalu pada API Google Translate masukan kode 
 ```bash
  AIzaSyAoBEzCq4wm0EXq8qwL69B3nI7adgBgvM4 
-``` kemudian klik OK
+``` 
+kemudian klik OK
+
 5. Pilih Tab Video->Audio to Text (Whisper)->Open models folder
    - Copy semua file dalam Folder Wishper-Model ke path direktori models yang baru saja di buka
