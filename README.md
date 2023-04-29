@@ -1,6 +1,6 @@
 # Documentation SubsEdit
 
-##- Langkah Instalasi dan Konfigurasi -
+## Langkah Instalasi dan Konfigurasi 
 
 1. Install SubsEdit-Setup.exe
 2. Buka dan lakukan configurasi sederhana
